@@ -1,9 +1,9 @@
 # **CS205 C/ C++ Program Design - Project 1**
 
-## Name: Ma Yunhao 
-## SID: 11911523
+ **Name: Ma Yunhao** 
+ **SID: 11911523**
 
-# **Part 1 - Analysis**
+**Part 1 - Analysis**
 The problem is to implement a multiplier which can solve plentiful multiply operations, including integers, floating numbers, exponent numbers and number distinction. However, we should consider the situation of every kind of 
 ## Libraries and Methods used in this project:
 `#include<iostream>`provides the input and output function of this project. 
