@@ -1,6 +1,6 @@
 # **CS205 C/ C++ Program Design - Project 1**
 
- **Name: Ma Yunhao** 
+ **Name: Ma Yunhao** <br>
  **SID: 11911523**
 
 **Part 1 - Analysis**
